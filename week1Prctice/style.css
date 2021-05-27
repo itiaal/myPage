@@ -55,6 +55,7 @@ p {
     margin-left: auto;
     margin-right: auto;  
 }
+
 .style p {
     padding: 5px;
     border: 1px solid black;
@@ -88,7 +89,7 @@ p {
 }
 
 .style3 p {
-    width: 816px;
+    width: 812px;
     background-color: pink;
     text-align: center;
     height: 30px;
