@@ -51,10 +51,11 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
-
-.style p {
+p {
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;  
+}
+.style p {
     padding: 5px;
     border: 1px solid black;
     width: 800px;
@@ -68,8 +69,6 @@ table {
 }
 
 .style2 p {
-    margin-left: auto;
-    margin-right: auto;
     padding: 20px;
     width: 766px;
     height: 300px;
@@ -78,7 +77,7 @@ table {
     color: blue;
 }
 
-.style2 a {
+.style2 p a {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 5px;
@@ -89,8 +88,6 @@ table {
 }
 
 .style3 p {
-    margin-left: auto;
-    margin-right: auto;
     width: 816px;
     background-color: pink;
     text-align: center;
