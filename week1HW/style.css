@@ -1,0 +1,211 @@
+﻿.style {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    border-bottom:#000000 solid 2px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+.style p {
+    margin-top: 40px;
+    height: 190px;
+    text-align: left;
+    font: normal normal normal 80px/95px SF Pro Text;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.style img {
+    margin-top: 100px;
+    margin-bottom: 48px;
+    width: 324px;
+    height: 324px;
+}
+
+.style span {
+    font-size: 32px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.style span eng{
+    margin-left: 16px;
+    font-size: 24px;
+    color: #A00404;
+}
+
+.style detailSpan {
+    padding-top: 24px;
+    text-align: left;
+    font: normal normal 300 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.style2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 496px;
+    background: #415165 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding-bottom: 52px;
+    padding-top: 24px;
+}
+
+.style2 p {
+    text-align: center;  
+    font: normal normal 32px/45px PingFang TC;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.style2 p eng {
+    margin-left: 16px;
+    font-size: 24px;
+}
+
+.style2 div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 996px;
+    border-top: 1px solid #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.style2 inSide {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    text-align: left;
+    display: block;   
+}
+
+.style2 inSide p{
+    padding-bottom: 20px;
+    border-left: 1px solid #96A9C4;
+    padding-left: 24px;
+    text-align: left;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.style2 inSide bottomOne {
+    border-left: 1px solid #96A9C4;
+    padding-left: 24px;
+    text-align: left;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.style2 inSide span{
+    padding-bottom: 20px;
+}
+
+.style3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    padding-bottom: 76px;
+    padding-top: 16px;
+    text-align: left;
+}
+
+.style3 p {
+    font: normal normal 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    border-left: 1px solid #96A9C4;;
+    margin-left: 24px;
+}
+
+.style3 p span{
+    padding-left: 24px;
+}
+
+.style3 p img{
+    width: 89.5px;
+    height: 66.85px;
+    padding-left: 24px;
+    padding-top: 8px;
+}
+
+.style3 p detail{
+    padding-left: 24px;
+    width: 642px;
+    display: block;
+    text-align: left;
+    font: normal normal 300 20px/30px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.style3 p img2 img{
+    width: 72px;
+    height: 73px;
+    padding-left: 24px;
+    padding-top: 8px;
+}
+
+.style4 {
+    background: #415165 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 401px;
+    padding-bottom: 24px;
+    padding-top: 32px;
+}
+
+.style4 p {
+    text-align: center;  
+    font: normal normal 32px/45px PingFang TC;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.style4 p eng {
+    margin-left: 16px;
+    font-size: 24px;
+}
+.style4 div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 996px;
+    border-top: 1px solid #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.style4 inSide {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;   
+}
+
+.style4 inSide p{
+    padding-bottom: 20px;
+    border-left: 1px solid #96A9C4;
+    padding-left: 24px;
+    text-align: center;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.style4 inSide img {
+    margin-left: 24px;
+}
