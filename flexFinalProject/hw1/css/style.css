@@ -1,0 +1,85 @@
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.wrap {
+    display: flex;
+    width: 1168px;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color: #354939;
+}
+
+.wrap div h2{
+    text-align: center;
+    font-size: 80px;
+    color: #37523d;
+    font-family: Microsoft JhengHei;
+    background-color: #e7eeea;
+    display : block;
+    margin-top: inherit;
+    margin-bottom: auto;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.contentTwo {
+    margin: 0 22px;
+}
+
+.wrap div h3 {
+    font-size: 30px;
+    color: #37523d;
+}
+
+.wrap div p {
+    font-size: 24px;
+}
+
+.header {
+    display: block;
+}
+
+.content {
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 34px;
+    padding-bottom: 84px; 
+}
